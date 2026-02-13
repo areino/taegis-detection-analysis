@@ -109,6 +109,9 @@ Status Distribution:
   - SUPPRESSED: 1,777,778 alerts
 ...
 ```
+## Example Output Sankey Diagram
+
+![Sample Sankey diagram](sankey_diagram.png "")
 
 ## Troubleshooting
 
