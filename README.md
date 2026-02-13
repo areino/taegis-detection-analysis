@@ -27,6 +27,12 @@ pip install -r requirements.txt
 
 ## Usage
 
+### Export CSV detection data from Taegis XDR
+
+From Detections > Detections, select the desired timeframe, and click on Export all as CSV from the Actions drop down menu.
+
+Once the export job is completed, download the CSV to the local drive from Downloads > Data Exports.
+
 ### Basic Usage
 
 ```bash
